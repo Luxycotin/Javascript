@@ -23,6 +23,6 @@ switch(dia){
         console.log('Domingo')
         break;
     default:
-        console.log('No es un dia válido')
+        console.log('El valor ingresado no representa un dia valido')
         break;
 }
